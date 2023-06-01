@@ -12,3 +12,11 @@
 #   Add HTML/CSS files
 !*.html
 !*.css
+
+
+
+#   Add image files
+
+!*.jpg
+!*.jpeg
+!*.png
