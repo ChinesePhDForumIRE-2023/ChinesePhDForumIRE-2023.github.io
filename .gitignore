@@ -1,0 +1,13 @@
+#   .gitignore for ChinesePhDForumIRE-2023.github.io
+
+#   Ignore all
+*
+!*/
+
+
+#   Add git files
+!.gitignore
+
+#   Add HTML/CSS files
+!*.html
+!*.css
