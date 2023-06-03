@@ -20,3 +20,8 @@
 !*.jpg
 !*.jpeg
 !*.png
+
+
+#   Add template files
+!*.doc
+!*.docx

@@ -13,7 +13,9 @@
 
 
 
-
+# Documents
+*.doc               binary
+*.docx              binary
 
 
 # Graphics
