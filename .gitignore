@@ -26,6 +26,9 @@
 !*.doc
 !*.docx
 
+#	Add .pdf files
+!*.pdf
+
 
 
 
